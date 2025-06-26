@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "title": "24-1 제 1회 BK-IMDS",
+    "title": "24-1 제 1회 BK+IMDS",
     "date": "2024년 6월 7일",
     "summary": "The Kalman filter and its application in mathematical modeling and deep learning",
     "image": "/20240607.jpg",
@@ -11,7 +11,7 @@
   },
   {
     "id": "1750921724606",
-    "title": "24-2 제 2회 BK-IMDS",
+    "title": "24-2 제 2회 BK+IMDS",
     "date": "2024년 9월 24일",
     "summary": "NLP(2) - Word2Vec 속도 개선",
     "image": "/20240924.jpg",
