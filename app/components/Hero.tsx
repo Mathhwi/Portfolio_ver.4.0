@@ -123,23 +123,45 @@ const Hero = () => {
               <ul className="space-y-6 text-gray-600">
                 <li>
                   <p className="font-semibold text-lg">Graduate</p>
-                  <ul className="ml-5 mt-2 list-disc space-y-1">
-                    <li>BK21 Scholarship Recipient, Department of Mathematics, Sogang University (2025.03 – Present)</li>
-                    <li>Best Paper Award, Korean Institute of Intelligent Systems, 2024 Fall (KIIS) – Analyzing the Limitations of Cosine Similarity for High-Dimensional Data and Evaluating DIEM</li>
-                    <li>Best Paper Award, Korean Institute of Intelligent Systems, 2025 Spring (KIIS) – Utilizing RAG-Based LLMs for Real-Time Voice Phishing Detection</li>
-                    <li>Best Paper Award, Korean Institute of Intelligent Systems, 2025 Spring (KIIS) –   LLM-Based Methodology for Predicting Water Levels of the Gamcheon River</li>
+                  <ul className="ml-5 mt-2 list-disc space-y-2">
+                    <li>
+                      BK21 Scholarship Recipient, Department of Mathematics, Sogang University (Mar. 2025 – Present)
+                    </li>
+                    <li>
+                      Best Paper Award, Korean Institute of Intelligent Systems, Fall 2024 KIIS Conference – <i>Analyzing the Limitations of Cosine Similarity for High-Dimensional Data and Evaluating DIEM</i> (Poster Session)
+                    </li>
+                    <li>
+                      Best Paper Award, Korean Institute of Intelligent Systems, Spring 2025 KIIS Conference – <i>Utilizing RAG-Based LLMs for Real-Time Voice Phishing Detection</i> (Poster Session)
+                    </li>
+                    <li>
+                      Best Paper Award, Korean Institute of Intelligent Systems, Spring 2025 KIIS Conference – <i>LLM-Based Methodology for Predicting Water Levels of the Gamcheon River</i>
+                    </li>
                   </ul>
                 </li>
                 <li>
                   <p className="font-semibold text-lg">Undergraduate</p>
-                  <ul className="ml-5 mt-2 list-disc space-y-1">
-                    <li>National Assembly Commendation for Academic Excellence (Award No. 2024-069, 2024)</li>
-                    <li>Academic Excellence Scholarship, Incheon National University (2023, Fall)</li>
-                    <li>Highest Academic Distinction Scholarship, Incheon National University (2023 Spring, 2022 Fall, 2022 Spring, 2021 Fall, 2021 Spring)</li>
-                    <li>INU Development Fund Scholarship, Incheon National University (2022, Spring)</li>
-                    <li>College of Natural Sciences Scholarship, Incheon National University (2021, Fall)</li>
-                    <li>Startup Scholarship, Incheon National University Startup Support Center (2018)</li>
-                    <li>President of University Startup Club, Incheon National University Startup Support Center (2018.03 – 2018.12)</li>
+                  <ul className="ml-5 mt-2 list-disc space-y-2">
+                    <li>
+                      National Assembly Commendation for Academic Excellence, Award No. 2024-069 (2024)
+                    </li>
+                    <li>
+                      Academic Excellence Scholarship, Incheon National University (Fall 2023)
+                    </li>
+                    <li>
+                      Highest Academic Distinction Scholarship, Incheon National University (Spring 2023, Fall 2022, Spring 2022, Fall 2021, Spring 2021)
+                    </li>
+                    <li>
+                      INU Development Fund Scholarship, Incheon National University (Spring 2022)
+                    </li>
+                    <li>
+                      College of Natural Sciences Scholarship, Incheon National University (Fall 2021)
+                    </li>
+                    <li>
+                      Startup Scholarship, Incheon National University Startup Support Center (2018)
+                    </li>
+                    <li>
+                      President, University Startup Club, Incheon National University Startup Support Center (Mar. 2018 – Dec. 2018)
+                    </li>
                   </ul>
                 </li>
               </ul>
