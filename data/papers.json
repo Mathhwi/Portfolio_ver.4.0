@@ -1,0 +1,23 @@
+[
+  {
+    "title": "(심사중) High-Dimensional Time Series Classification Based on Similarity Measure",
+    "description": "2024년 12월에 투고하여 심사중인 논문 입니다.",
+    "authors": [
+      "Keon-Hwi Kim",
+      " Jon-Lark Kim"
+    ],
+    "image": "/project1.png"
+  },
+  {
+    "title": "(심사중)Application of TimeGPT for enhancing water level prediction in Gamcheon River, Korea",
+    "description": "2025년 1월에 투고하여 심사중인 논문입니다.",
+    "authors": [
+      "Jon-Lark Kim",
+      " Jae-Hyun Baek",
+      " Keon-Hwi Kim",
+      " Tae Hyo Baek",
+      " Chang-Lae Jang"
+    ],
+    "image": "/project2.png"
+  }
+]

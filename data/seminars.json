@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "title": "24-1 제 1회 BK-IMDS",
+    "date": "2024년 6월 7일",
+    "summary": "The Kalman filter and its application in mathematical modeling and deep learning",
+    "image": "/20240607.jpg",
+    "content": "2024년 6월 7일 수리과학 및 데이터 사이언스 연구소 설립 이래 처음으로\n\n제 1회 세미나가 개최되었습니다.\n\n\n\n이날 발표한 대학원생은 총 3명으로 아래의 주제로 발표를 진행하였습니다. \n\n\n\n- RAG 기반 생성형 AI 소개(10:30-11:00)\n\n   발표자: 백재현 석사과정(김종락 학과장)\n\n- The Kalman filter and its application in mathematical modeling and deep learning(11:00-11:30)\n\n   발표자: 김건휘 석사과정(김대욱 교수)\n\n- 이산 데이터의 경계 다항함수 연구(11:30-12:00)   \n\n   발표자: 박진승 석사과정(임경수 교수)",
+    "sourceUrl": "https://imds.sogang.ac.kr/front/cmsboardview.do?currentPage=3&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=7110&siteId=imds&pkid=911226",
+    "pdfUrl": "/pdfs/Data Science Seminar_Final_Hwi.pdf"
+  },
+  {
+    "id": "1750921724606",
+    "title": "24-2 제 2회 BK-IMDS",
+    "date": "2024년 9월 24일",
+    "summary": "NLP(2) - Word2Vec 속도 개선",
+    "image": "/20240924.jpg",
+    "content": "2024년 9월 24일 2학기제 2회 BK+IMDS 세미나가 개최되었습니다.\n\n이날 발표한 대학원생은 총 3명으로 아래의 주제로 발표를 진행하였습니다. \n\n - NLP 개론(2) (17:00-17:30)\n\n발표자: 김건휘 석사과정 \n\n- LCD codes over F2+uF2 (17:30-18:00)\n\n발표자: 노영건 박사\n\n- The building-up construction of binary self-dual codes with genetic algorithm (18:00-18:30)\n\n발표자: 원병선 박사",
+    "sourceUrl": "https://imds.sogang.ac.kr/front/cmsboardview.do?currentPage=3&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=7110&siteId=imds&pkid=913795",
+    "pdfUrl": "/pdfs/NLP_2.pdf"
+  },
+  {
+    "id": "1750921896451",
+    "title": "24-2 제 4회 BK+IMDS",
+    "date": "2024년 10월 29일",
+    "summary": "NLP(4) - 게이트가 추가된 RNN",
+    "image": "/20241029.jpg",
+    "content": "2024년 10월 29일 2학기 제 4회 BK+IMDS 세미나가 개최되었습니다.\n\n16:30-18:00 부호론과 AI 최신 논문연구 발표\n                       (참여자 각 10분)\n18:00-18:30 김건휘 석사 과정- NLP 개론 (4) ",
+    "sourceUrl": "https://imds.sogang.ac.kr/front/cmsboardview.do?currentPage=3&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=7110&siteId=imds&pkid=915012",
+    "pdfUrl": "/pdfs/NLP_4.pdf"
+  },
+  {
+    "id": "1750922139792",
+    "title": "24-2 제 5회 BK+IMDS",
+    "date": "2024년 11월 8일",
+    "summary": "NLP(6) - Attention",
+    "image": "/20241108.jpg",
+    "content": "2024년 11월 8일 2학기 제 5회 BK+IMDS 세미나가 개최되었습니다.\n\n16:00-17:30 부호론과 AI 최신 논문연구 발표\n                       (참여자 각 10분)\n18:00-18:30 윤경주 박사 과정- NLP 개론 (5) \n18:00-18:30 김건휘 석사 과정- NLP 개론 (최종) \n",
+    "sourceUrl": "https://imds.sogang.ac.kr/front/cmsboardview.do?currentPage=2&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=7110&siteId=imds&pkid=915467",
+    "pdfUrl": "/pdfs/NLP_6.pdf"
+  },
+  {
+    "id": "1750923127329",
+    "title": "Sincheon Seminar Graduates (SSG) In Mathematics&CSE 2024 Fall",
+    "date": "2024년 11월 22일",
+    "summary": "Introduction to Similarity Measures and Limitations of Cosine Similarity",
+    "image": "/20241122.png",
+    "content": "제1회 대학원생-학부생 연구 교류 세미나 (연세대 수학계산학부 주최)\n\n- 일시: 2024년 11월 22일 금요일 10시-18시\n- 장소: 연세대학교 과학관 B131호\n\n발표분야: 응용수학 (Graph Generation, CFD, Quantum Computing)\n수학 (Analysis, Data Science), 컴퓨터과학 (Language Theory, Combinatorial Optimization)",
+    "sourceUrl": "https://cse.yonsei.ac.kr/cse/events/seminars.do?mode=view&articleNo=214904&article.offset=0&articleLimit=10&srSearchVal=ssg",
+    "pdfUrl": "/pdfs/ssg.pdf"
+  },
+  {
+    "id": "1750923409843",
+    "title": "24-2 제 7회 BK+IMDS",
+    "date": "2024년 11월 27일",
+    "summary": "LLM(4) - 말 잘 듣는 모델 만들기",
+    "image": "/20241127.jpg",
+    "content": "2024년 11월 27일 2학기 제 7회 BK+IMDS 세미나가 개최되었습니다.\n\n17:30-18:00 윤경주 박사과정 - 트랜스포머 모델을 다루기 위한 허깅페이스 트랜스포머 라이브러리\n18:00-18:30 김건휘 석사과정 - 말 잘 듣는 모델 만들기",
+    "sourceUrl": "https://imds.sogang.ac.kr/front/cmsboardview.do?currentPage=2&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=7110&siteId=imds&pkid=916328",
+    "pdfUrl": "/pdfs/LLM_4.pdf"
+  },
+  {
+    "id": "1750923518667",
+    "title": "24-2 제 9회  BK+IMDS",
+    "date": "2024년 12월 10일",
+    "summary": "LLM(6) - 벡터 데이터베이스로 확장하기 - RAG 구현하기",
+    "image": "/20241210.jpg",
+    "content": "2024년 12월 10일 수리과학 및 데이터사이언스 연구소에서\n2학기 제 9회 IMDS+BK 세미나가 개최되었다. \n\n장소: R1418호 \n일시: 2024년 12월 10일\u001d화요일 17:30 - 18:30\n\n17:30-18:00 - 윤경주 박사과정: 자신의 데이터에 맞춘 임베딩 모델 만들기 - RAG 개선하기\n18:00-18:30 -김건휘 석사과정: 벡터 데이터베이스로 학장하기 - RAG 구현하기\n18:30-18:40 - 백재현 석사과정: LLM 운영하기",
+    "sourceUrl": "https://imds.sogang.ac.kr/front/cmsboardview.do?currentPage=2&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=7110&siteId=imds&pkid=916554",
+    "pdfUrl": "/pdfs/LLM_6.pdf"
+  },
+  {
+    "id": "1750924426380",
+    "title": "25-1 제 1회 BK+IMDS",
+    "date": "2025년 3월 12일",
+    "summary": "Reinforcement Learning Study - RL and Rubik's cube",
+    "image": "/1회.png",
+    "content": "2025년 3월 11일 수리과학 및 데이터사이언스 연구소에서\n\n1학기 제 1회 IMDS+BK 세미나가 개최되었다. \n장소: R1418호 \n\n일시: 2024년 3월 11일\u001d화요일 16:30 - 18:30\n\n\n\n16:30-17:00 안준민 박사과정 - Codes with Galois form\n\n17:00-17:30 백재현 석사과정 - AI Security(Sleeper Agents)\n\n17:30-18:00 김건휘 석사과정 - 강화학습(Reinforcement Learning) 스터디\n\n18:00-18:30 부호론과 AI 최신 논문연구 발표",
+    "sourceUrl": "https://imds.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=7110&siteId=imds&pkid=919534",
+    "pdfUrl": "/pdfs/RL_1.pdf"
+  },
+  {
+    "id": "1750924698774",
+    "title": "25-1 제 3회 BK+IMDS",
+    "date": "2025년 4월 8일",
+    "summary": "Model Context Protocol(MCP) 소개 및 활용 in Windows",
+    "image": "/3회.png",
+    "content": "2025년 4월 8일 화요일 2025-1학기 제 3회 BK+IMDS 가 개최되었다. \n\n본 세미나에서는 특별히 서강대학교 교육대학원 이예경 교수의 Chat GPT 사용법 특강도 있었다.\n\n16:30-17:30 이예경 교수(서강대학교)  - GPT 활용법\n17:30-18:00 김건휘 석사과정 - MCP(Model Context Protocol)\n\n----------------------------------------------------------------\n강연 자료로 사용된 자료이므로, 업로드 하지 못하였습니다.\n필요하신 분께서는 개인적으로 연락 주시면 감사하겠습니다.\n\nE-mail : rlarjsgnl@sogang.ac.kr",
+    "sourceUrl": "https://imds.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=7110&siteId=imds&pkid=920852",
+    "pdfUrl": ""
+  },
+  {
+    "id": "1750924974347",
+    "title": "25-1 제 6회 BK+IMDS",
+    "date": "2025년 5월 27일",
+    "summary": "Solving sudoku puzzles through  structure inference",
+    "image": "/6회.png",
+    "content": "2025년 5월 13일 화요일 2025-1학기 제 6회 BK+IMDS 가 개최되었다. \n\n16:30-17:00 임하은 석사과정 - Lower bound on Sudoku solutions from perfect codes over GF(3) with Hamming distance 1\n17:00-17:30 김건휘 석사과정 - Solving sudoku puzzles through  structure inference\n17:30-18:00 백재현 석사과정 - Objective cellularity calculator\n18:00-19:00 부호론과 데이터사이언스 최신 연구 발표\n---------------------------------------------------------------\n현재 진행 중인 연구 주제로, 자료는 공개하지 않았습니다.",
+    "sourceUrl": "https://imds.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=7110&siteId=imds&pkid=922666",
+    "pdfUrl": ""
+  },
+  {
+    "id": "1750930825401",
+    "title": "25-1 제 7회 BK+IMDS",
+    "date": "2025년 6월 18일",
+    "summary": "Solving Sudoku Puzzles through Structure Inference and Evolutionary Algorithms",
+    "image": "/7회.png",
+    "content": "Solving Sudoku Puzzles through Structure Inference and Evolutionary Algorithms\n\n현재 진행중인 연구로, 따로 자료는 업로드 하지 않았습니다.",
+    "sourceUrl": "",
+    "pdfUrl": ""
+  }
+]
